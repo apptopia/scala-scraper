@@ -12,7 +12,7 @@ resolvers ++= Seq(
 
 libraryDependencies ++= Seq(
   "com.github.nscala-time"     %% "nscala-time"          % "2.14.0",
-  "com.typesafe"                % "config"               % "1.3.1",
+  "com.typesafe"                % "config"               % "1.2.1",
   "net.sourceforge.htmlunit"    % "htmlunit"             % "2.23",
   "org.jsoup"                   % "jsoup"                % "1.10.1",
   "org.scalaz"                 %% "scalaz-core"          % "7.2.7",
